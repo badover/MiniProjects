@@ -1,3 +1,2 @@
-# MiniPythonProjects
- My mini projects
-Different themes and languages.
+
+ My mini projects on different themes and languages.
